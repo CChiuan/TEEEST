@@ -640,9 +640,6 @@ li {
   .wrapper .h_open {
     display: none;
   }
-  .wrapper .header {
-    /* height: 90vh; */
-  }
   .wrapper .header .frontfu {
     width: 100%;
   }
